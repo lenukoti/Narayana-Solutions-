@@ -7,7 +7,7 @@ import Footer from '../components/Footer';
 import heroimg from '../../public/heroimg.png';
 import ContactForm from '../components/ContactForm';
 import About from '../components/About';
-import ISOCertification from '../components/IsoCertification';
+import ISOCertification from '../components/ISOCertification';
 
 const features = [
   {
