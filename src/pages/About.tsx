@@ -39,7 +39,7 @@ const team = [
     bio: 'Founder of LN Technologies, Computer Science with 5+ years of teaching experience'
   },
   {
-    name: 'JAGADEESH',
+    name: 'BANDARU JAGDEESH KUMAR',
     role: 'Computer Science Specialist',
     image: jagadeesh,
     bio: 'Founder of LN Technologies, Computer Science with 10+ years of teaching experience'

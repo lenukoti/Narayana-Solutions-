@@ -15,7 +15,7 @@ function About() {
       <div className="text-center md:text-left max-w-lg animate-fadeIn">
         <h2 className="text-4xl font-extrabold text-gray-900 mb-6">Who We Are</h2>
         <p className="text-lg text-gray-700 leading-relaxed">
-          At <span className="font-semibold text-indigo-600">Narayana Solutions</span>, we believe in empowering students and educators 
+          At <span className="font-semibold text-indigo-600">LN Technologies</span>, we believe in empowering students and educators 
           with cutting-edge learning solutions. Our team is dedicated to fostering innovation, creativity, and 
           collaboration to enhance educational experiences.
         </p>
