@@ -24,7 +24,7 @@ export const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3">
             <img src={logo} alt="Logo" className="h-12 w-auto rounded-lg hover:opacity-90 transition" />
-            <span className="text-2xl font-bold text-indigo-600">Narayana Solutions</span>
+            <span className="text-2xl font-bold text-indigo-600">LN Tecnologies</span>
           </Link>
 
           {/* Desktop Navigation */}
