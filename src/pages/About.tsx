@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { Award, BookOpen, GraduationCap, Users } from 'lucide-react';
 import { AnimatedPage } from '../components/AnimatedPage';
 import narayana from "../assets/hi.jpeg.jpg"
+import jagadeesh from "../assets/jagadeesh.jpg"
 import Footer from '../components/Footer';
 const stats = [
   {
@@ -35,8 +36,14 @@ const team = [
     name: 'ENUKOTI LAKSHMI NARAYANA',
     role: 'Lead Python Instructor',
     image: narayana,
-    bio: 'Founder of narayana solutions, Computer Science with 5+ years of teaching experience'
+    bio: 'Founder of LN Technologies, Computer Science with 5+ years of teaching experience'
   },
+  {
+    name: 'JAGADEESH',
+    role: 'Computer Science Specialist',
+    image: jagadeesh,
+    bio: 'Founder of LN Technologies, Computer Science with 10+ years of teaching experience'
+  }
 
 ];
 
