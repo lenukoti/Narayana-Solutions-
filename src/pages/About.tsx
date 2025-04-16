@@ -3,6 +3,7 @@ import { Award, BookOpen, GraduationCap, Users } from 'lucide-react';
 import { AnimatedPage } from '../components/AnimatedPage';
 import narayana from "../assets/hi.jpeg.jpg"
 import jagadeesh from "../assets/jagadeesh.jpg"
+import sampath from "../assets/sampath .jpg"
 import Footer from '../components/Footer';
 const stats = [
   {
@@ -43,6 +44,12 @@ const team = [
     role: 'Computer Science Specialist',
     image: jagadeesh,
     bio: 'Founder of LN Technologies, Computer Science with 10+ years of teaching experience'
+  },
+  {
+    name: 'SAMPATH BANISETTI',
+    role: 'Computer Science Specialist',
+    image: sampath,
+    bio: 'Graduated from VIT UNIVERSITY, computer science  with 3+ years of teaching experience(Lead Java Instructor)'
   }
 
 ];
@@ -127,7 +134,7 @@ export const About = () => {
                   <img
                     src={member.image}
                     alt={member.name}
-                    className="w-full h-70 object-cover"
+                    className="w-full h-65 object-cover"
                   />
                   <div className="p-6">
                     <h3 className="text-xl font-bold text-gray-900 mb-2">
